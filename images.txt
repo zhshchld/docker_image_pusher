@@ -5,3 +5,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 buddyfly/openwrt-aarch64:r22.7.14 
+linuxserver/resilio-sync:2.8.1
+80x86/lychee
+80x86/baidupcs
+linuxserver/tvheadend
+lstcml/n1_verysync
