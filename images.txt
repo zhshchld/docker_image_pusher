@@ -11,3 +11,4 @@ linuxserver/resilio-sync:2.8.1
 linuxserver/tvheadend
 lstcml/n1_verysync
 jonnyan404/verysync
+linuxserver/oscam:version-11815
