@@ -10,3 +10,4 @@ linuxserver/resilio-sync:2.8.1
 80x86/baidupcs
 linuxserver/tvheadend
 lstcml/n1_verysync
+jonnyan404/verysync
