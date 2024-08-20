@@ -16,3 +16,15 @@ ljachym/resilio-sync:2.7.3
 lspipepr/resilio-sync:2.7.3-PR-43
 elcrp96/resilio-sync:latest
 gilesknap/gphotos-sync
+lsiodev/resilio-sync:2.7.3-jammy
+pirhana/resilio-sync:v2.7.2.1375
+jstudler/resiliosync-armhf:2.7.3-arm64
+ruijzhan/resilio:arm64
+outlyernet/resiliosync-multiarch:2.8
+gilesknap/gphotos-sync:pr
+chenhaodong/resiliosync:arm
+synctvorg/synctv:latest
+synctvorg/synctv:0.6
+ tronity/sync:latest
+brimstone/syncthing:latest
+outlyernet/resiliosync-multiarch:latest
