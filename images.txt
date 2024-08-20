@@ -28,3 +28,4 @@ synctvorg/synctv:0.6
  tronity/sync:latest
 brimstone/syncthing:latest
 outlyernet/resiliosync-multiarch:latest
+portainer/portainer-ce:2.21.0-rc1-alpine
