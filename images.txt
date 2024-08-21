@@ -29,3 +29,10 @@ synctvorg/synctv:0.6
 brimstone/syncthing:latest
 outlyernet/resiliosync-multiarch:latest
 portainer/portainer-ce:2.21.0-rc1-alpine
+unifreq/openwrt-aarch64:r22.08.02
+hibuddies/openwrt-aarch64:R21.6.1
+dickhub/openwrt:9.12.31
+summary/openwrt-aarch64:R24.2.2
+zzsrv/openwrt:aarch64
+xtoys/openwrt:R22.01.01
+minirailgun/openwrt-aarch64:latest
