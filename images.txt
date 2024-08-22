@@ -36,3 +36,4 @@ summary/openwrt-aarch64:R24.2.2
 zzsrv/openwrt:aarch64
 xtoys/openwrt:R22.01.01
 minirailgun/openwrt-aarch64:latest
+filebrowser/filebrowser:v2-s6
