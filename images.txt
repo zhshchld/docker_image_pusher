@@ -1,2 +1,2 @@
-
 filebrowser/filebrowser:v2-s6
+6053537/portainer-ce:latest
