@@ -1,2 +1,4 @@
 filebrowser/filebrowser:v2-s6
 6053537/portainer-ce:latest
+6053537/portainer-ce:2.19.5
+
